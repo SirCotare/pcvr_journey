@@ -4,11 +4,10 @@
 ## Setup
 - UEVR (nightly 1046)
 - FSR4 with OptiScaler
+- Virtual Desktop
 
 ### UEVR
-Since the game does not natively support VR, we use UEVR. Oblivion Remastered uses UnrealEngine 5 for the graphics part.
-
-[UEVR](https://github.com/praydog/UEVR)
+Since the game does not natively support VR, we use [UEVR](https://github.com/praydog/UEVR). Oblivion Remastered uses UnrealEngine 5 for the graphics part.
 
 We use the [nightly build 1046](https://github.com/praydog/UEVR-nightly/releases/tag/nightly-01046-5d12735a10c146ea7ff73ac2c37bdd529bc1214d).
 
@@ -34,3 +33,17 @@ I also prefer to set `ShortcutKey=36` in the `optiscaler.ini` to use the home ke
 - [Better Reticle](https://www.nexusmods.com/oblivionremastered/mods/164)
 - [Ultimate Engine Tweaks](https://www.nexusmods.com/oblivionremastered/mods/35)
 - [Oblivion Optimizer](https://www.nexusmods.com/oblivionremastered/mods/39)
+
+### Virtual Desktop
+We will try to run it at Godlike resolution with 90FPS with SSW active.
+
+That should give us high visual clarity while maintaining a somewhat smooth experience.
+
+### FSR
+We try to go for Quality
+
+### Ingame settings
+- Hardware RT off
+- Low settings for effects and post processing
+- View distance high
+- Rest medium
