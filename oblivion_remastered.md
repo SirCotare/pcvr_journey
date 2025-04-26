@@ -33,6 +33,7 @@ I also prefer to set `ShortcutKey=36` in the `optiscaler.ini` to use the home ke
 - [Better Reticle](https://www.nexusmods.com/oblivionremastered/mods/164)
 - [Ultimate Engine Tweaks](https://www.nexusmods.com/oblivionremastered/mods/35)
 - [Oblivion Optimizer](https://www.nexusmods.com/oblivionremastered/mods/39)
+- [FuzzUI - Interface Tweaks](https://www.nexusmods.com/oblivionremastered/mods/292)
 
 ### Virtual Desktop
 We will try to run it at Godlike resolution with 90FPS with SSW active.
